@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(225, 208, 128);
+}
+p{
+    color: aquamarine;
+    display: grid;
+    width: 900x;
+    height: 500px;
+    font-size: 70px;
+    align-items: center;
+    justify-content: center;
+  }
